@@ -1,0 +1,9 @@
+{
+  "name": "yiguangshen/apiratelimit",
+  "description": "apiratelimit use grpc for PHP",
+  "require": {
+    "grpc/grpc": "^v1.3.0",
+    "google/protobuf": "^v3.3.0",
+    "protocolbuffers/protoc-gen-php": "dev-master"
+  }
+}
